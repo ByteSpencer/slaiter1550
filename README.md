@@ -1,4 +1,4 @@
-- hi!! @slaiter1550
+- hi!! im @slaiter1550
 - i’m interested in game art/developing, graphic design, & anything that looks like a puzzle 
 - proficient in python, css, js, ruby, swift, & java
 - currently learning c#, PHP, & c++
