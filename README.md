@@ -1,8 +1,7 @@
 - hi!! im @slaiter1550
-- i’m interested in game art/developing, graphic design, & anything that looks like a puzzle 
+- i’m interested in game art/developing, graphic + UI design, & anything that looks like a puzzle 
 - proficient in python, css, js, ruby, swift, & java
-- currently learning c#, PHP, & c++
-- how to reach me: discord (slaiterr) 
+- currently learning c#, PHP, & c++ 
 - fun fact: deathly allergic to peppermint
 
 <!---
